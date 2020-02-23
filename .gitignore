@@ -6,3 +6,5 @@ coverage
 dist
 benchmarkDist
 npm
+.DS_Store
+.vscode/
